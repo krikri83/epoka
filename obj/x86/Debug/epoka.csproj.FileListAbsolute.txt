@@ -1,0 +1,6 @@
+C:\Users\Bamb75\Desktop\Mardi et Jeudi\Programmation Objet\Chaptitre 6\devoir\epokaV0\epoka\bin\Debug\epoka.exe
+C:\Users\Bamb75\Desktop\Mardi et Jeudi\Programmation Objet\Chaptitre 6\devoir\epokaV0\epoka\bin\Debug\epoka.pdb
+C:\Users\Bamb75\Desktop\Mardi et Jeudi\Programmation Objet\Chaptitre 6\devoir\epokaV0\epoka\obj\x86\Debug\epoka.csprojAssemblyReference.cache
+C:\Users\Bamb75\Desktop\Mardi et Jeudi\Programmation Objet\Chaptitre 6\devoir\epokaV0\epoka\obj\x86\Debug\epoka.csproj.CoreCompileInputs.cache
+C:\Users\Bamb75\Desktop\Mardi et Jeudi\Programmation Objet\Chaptitre 6\devoir\epokaV0\epoka\obj\x86\Debug\epoka.exe
+C:\Users\Bamb75\Desktop\Mardi et Jeudi\Programmation Objet\Chaptitre 6\devoir\epokaV0\epoka\obj\x86\Debug\epoka.pdb
